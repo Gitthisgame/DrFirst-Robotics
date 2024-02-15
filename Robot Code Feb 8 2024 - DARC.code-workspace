@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "Robot Code Feb 5 2024"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
